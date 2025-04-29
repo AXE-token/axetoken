@@ -1,0 +1,12 @@
+{
+  "name": "AXE Token",
+  "symbol": "AXE",
+  "decimals": 18,
+  "description": "Um token focado em inovação, crescimento, comunidade e reserva de valor sólida para o futuro.",
+  "website": "",
+  "telegram": "",
+  "discord": "",
+  "twitter": "",
+  "github": "https://github.com/AXE-token/axetoken-asset",
+  "explorer": "https://bscscan.com/token/0x1bC4E2F5e1984b1032F9241815E145100272D21E"
+}
